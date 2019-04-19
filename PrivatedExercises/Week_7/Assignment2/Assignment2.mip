@@ -1,0 +1,16 @@
+Assignment2
+C:\MipsIT\Exercises\Week_10\Assignment2\
+Objects\
+1
+C:\MipsIT\Exercises\Week_10\Assignment2\Assignment2.s
+0
+0
+1
+minic
+0
+0
+0
+0
+1
+objcopy.exe -O srec Assignment2.out Assignment2.srec
+80020000 start
